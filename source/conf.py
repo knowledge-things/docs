@@ -9,20 +9,21 @@
 project = 'Deep Learning'
 copyright = '2023, Kevin'
 author = 'Kevin'
-release = 'V0.1'
+release = 'V1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['recommonmark','sphinx_markdown_tables']
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-
+language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
-html_theme = 'alabaster'
+#import sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
+#html_theme = 'alabaster'
 html_static_path = ['_static']
