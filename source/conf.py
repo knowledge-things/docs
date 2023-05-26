@@ -9,12 +9,12 @@
 project = 'Deep Learning'
 copyright = '2023, Kevin'
 author = 'Kevin'
-release = 'V1.0'
+release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser","sphinx_markdown_tables"]
+extensions = ["myst_parser"]
 
 templates_path = ['_templates']
 exclude_patterns = []
