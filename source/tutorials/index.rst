@@ -13,4 +13,4 @@ LiDAR系列
 
 .. toctree::
 
-    SLAMTEC MAPPER（思岚）应用笔记 <SLAMTEC-MAPPER.md>
+    SLAMTEC MAPPER应用笔记 <SLAMTEC-MAPPER.md>

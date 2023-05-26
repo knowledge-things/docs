@@ -1,10 +1,10 @@
 # SLAMTEC MAPPER 激光测距传感器应用笔记
 
-> https://bucket-download.slamtec.com/8f2e0a04ecb1e3ccca2a7a99e1349b9e0344b5ee/SQ108_SLAMTEC_MAPPER_Kit_quickstart_M1M1_v1.0_cn.pdf
->
-> https://developer.slamtec.com/docs/slamware/ros-sdk/2.8.2_rtm/
->
-> http://wiki.ros.org/catkin
+[SLAMTEC MAPPER用户手册](https://bucket-download.slamtec.com/8f2e0a04ecb1e3ccca2a7a99e1349b9e0344b5ee/SQ108_SLAMTEC_MAPPER_Kit_quickstart_M1M1_v1.0_cn.pdf)
+
+[SLAMTEC MAPPER SDK](https://developer.slamtec.com/docs/slamware/ros-sdk/2.8.2_rtm/)
+
+[ROS wiki](http://wiki.ros.org/catkin)
 
 ## 下载SLAMTEC SDK
 
