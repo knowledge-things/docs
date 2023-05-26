@@ -7,12 +7,12 @@ Welcome to DeepLearning's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Jetson:
 
-   Jetson
+   tutorials/Jetson.md
 
-Indices and tables
+
 ==================
 
 * :ref:`genindex`
