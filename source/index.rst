@@ -10,7 +10,7 @@ Welcome to DeepLearning's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Jetson.md
+   Jetson
 
 Indices and tables
 ==================
