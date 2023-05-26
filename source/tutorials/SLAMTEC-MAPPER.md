@@ -6,7 +6,7 @@
 
 [ROS wiki](http://wiki.ros.org/catkin)
 
-## 下载SLAMTEC SDK
+## 1. 下载SLAMTEC SDK
 
 请在思岚科技官方网站上的[支持与下载页面](https://www.slamtec.com/cn/support)下载适合您的平台的ROS SDK并解压至本地。	
 
@@ -19,7 +19,7 @@ Slamware ROS SDK包含了您开发过程中可能会用到的资源、代码，�
 | --slamware_ros_sdk | ROS SDK源码包         |
 | --slamware_sdk     | SDK相关头文件与库文件 |
 
-## 1. 配置ROS环境
+## 2. 配置ROS环境
 
 1. 获取ROS Noetic Docker镜像:
 ` docker pull ros:noetic`
@@ -65,7 +65,7 @@ source devel/setup.bash
 roslaunch slamware_ros_sdk slamware.launch
 ```
 
-## 2. 启动节点
+## 3. 启动节点
 
 若移动机器人处于AP模式，连接机器人WIFI，启动节点
 
