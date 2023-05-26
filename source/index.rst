@@ -7,7 +7,7 @@ Welcome to DeepLearning's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 🚀 Tutorials
 
    tutorials/index.rst
