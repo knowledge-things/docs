@@ -10,7 +10,7 @@ Welcome to DeepLearning's documentation!
    :maxdepth: 2
    :caption: 🚀 Tutorials
 
-   tutorials/Jetson.md
+   适用于Jetson和JetPack的PyTorch容器 <tutorials/Jetson.md>
 
 .. toctree::
    :maxdepth: 2
