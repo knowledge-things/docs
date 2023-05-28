@@ -24,9 +24,9 @@ Welcome to DeepLearning's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
-   :caption: 📚 Reference
+   :caption: 📚 Model
 
+   models/index.rst
 
    
 ==================
