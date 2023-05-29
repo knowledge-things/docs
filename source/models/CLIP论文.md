@@ -56,3 +56,10 @@
 ## CLIP下游任务
 
 ![CLIP](../_static/images/CLIP.png)
+
+| 任务类型              | Link                                               | arXiv                            |
+| --------------------- | -------------------------------------------------- | -------------------------------- |
+| Action Classification | https://github.com/sallymmx/ActionCLIP/tree/master | https://arxiv.org/abs/2109.08472 |
+|                       |                                                    |                                  |
+|                       |                                                    |                                  |
+
