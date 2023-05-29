@@ -22,15 +22,21 @@ Slamware ROS SDK包含了您开发过程中可能会用到的资源、代码，�
 ## 2. 配置ROS环境
 
 1. 获取ROS Noetic Docker镜像:
-` docker pull ros:noetic`
+```
+ docker pull ros:noetic
+```
 
 2. 运行ROS Noetic Docker容器:
-` docker run -it --name ros-noetic-container ros:noetic /bin/bash
+```
+docker run -it --name ros-noetic-container ros:noetic /bin/bash
+```
 
 3. 安装SLAMTEC Mapper SDK: 首先，您需要从SLAMTEC官方网站下载适用于ROS的SDK（A1/A2/A3）：https://www.slamtec.com/en/Support#mapper-a-series
 
 4. 将SDK文件上传到Docker容器中。您可以使用docker cp命令实现这一点，例如：
-`docker cp slamtec_ros_sdk.tar.gz ros-noetic-container:/root`
+```
+docker cp slamtec_ros_sdk.tar.gz ros-noetic-container:/root
+```
 
 5. 然后在Docker容器中解压缩文件：
 
@@ -97,3 +103,12 @@ roslaunch slamware_ros_sdk view_slamware_ros_sdk_server_node.launch
 3. 可视化数据：使用ROS的`rviz`工具可视化雷达数据和摄像头图像。这将帮助您验证数据对齐是否正确。有关如何使用`rviz`的教程，请参阅ROS Wiki：http://wiki.ros.org/rviz/Tutorials
 
 通过以上步骤，您可以使用ROS将雷达数据与可见光数据对齐。需要注意的是，这里提供的信息仅是一个概述，实际操作时可能需要根据您的硬件和需求进行调整。
+
+## 4. Livox LiDAR资料
+[官方开源资料汇总](https://livox-wiki-cn.readthedocs.io/zh_CN/latest/data_summary/Livox_data_summary.html)
+
+[相机雷达标定](https://github.com/Livox-SDK/livox_camera_lidar_calibration/blob/master/doc_resources/README_cn.md)
+
+[Livox DeepStream](https://github.com/ICEORY/DeepStream)
+
+[KiTTI LiDAR-Camera Fusion](https://github.com/AutoLidarPerception/kitti_lidar_camera)

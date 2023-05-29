@@ -2,7 +2,7 @@
 
 [paper](https://paperswithcode.com/sota/action-classification-on-kinetics-400)
 
-![Action Classification on Kinetics-400](../_static/image-20230421095218906.png)
+![Action Classification on Kinetics-400](../_static/images/image-20230421095218906.png)
 
 
 
@@ -19,3 +19,18 @@
 | **Jester**                                     | 这是一个专门针对手势识别的数据集，包含27种手势和约150000段视频。 | [Jester](https://20bn.com/datasets/jester)                   |
 | **HMDB51 (Human Motion DataBase)**             | 这个数据集包含了7000多个分割后的视频片段，覆盖51个动作类别。每个类别至少包含101个视频剪辑。 | [HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) |
 | **Kinetics-400 (K400)**                        | 这是一个大规模的视频行为识别数据集，包含约40万个YouTube视频片段，涵盖400个人类行为类别。 | [Kinetics-400](https://deepmind.com/research/open-source/kinetics) |
+
+## 相关算法
+
+| Action Recognition | Link                                         | paper                                                        |
+| ------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| SlowFast           | https://github.com/facebookresearch/SlowFast | [ICCV 2019](https://alexander-kirillov.github.io/tutorials/visual-recognition-iccv19/) |
+|                    |                                              |                                                              |
+|                    |                                              |                                                              |
+
+
+## 相关框架
+
+- towhee https://github.com/towhee-io/examples/blob/main/video/video_tagging/action_classification.ipynb https://towhee.io/tasks/operator
+- mmpose open detection https://github.com/open-mmlab/playground/blob/main/mmpose_open_detection/README_zh-CN.md
+- MMAction2 https://github.com/open-mmlab/mmaction2/blob/main/README.md

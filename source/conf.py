@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Deep Learning'
+project = 'Kevin wiki'
 copyright = '2023, Kevin'
 author = 'Kevin'
 release = '0.1'
