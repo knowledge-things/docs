@@ -47,7 +47,7 @@
    4. 启用自动登录选项，并选择要自动登录的用户。
    5. 保存更改并关闭系统设置应用程序。
 
-# Connecting to VNC service from another computer 
+## Connecting to VNC service from another computer 
 
 You’ll need to know the IP address of your Jetson developer kit to connect from another computer. Run the ifconfig command on your developer kit and note down the IP address assigned to eth0 interface if using ethernet, wlan0 interface if using wireless, or l4tbr0 if using the USB device mode Ethernet connection.
 
