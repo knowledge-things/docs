@@ -6,7 +6,7 @@ Jetson系列
 
     适用于Jetson和JetPack的PyTorch容器 <Jetson.md>
     NVIDIA Jetson上部署YOLOv8 <https://wiki.seeedstudio.com/YOLOv8-DeepStream-TRT-Jetson/>
-
+    Jetson Enable VNC server <vnc-setup.md>
 ============
 LiDAR系列
 ============
