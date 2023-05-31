@@ -37,7 +37,15 @@
    sudo reboot
    ```
 
-The VNC server is only available after you have logged in to Jetson locally. If you wish VNC to be available automatically, use the system settings application on your developer kit to enable automatic login.
+   The VNC server is only available after you have logged in to Jetson locally. If you wish VNC to be available automatically, use the system settings application on your developer kit to enable automatic login.
+
+5. 在Jetson设备上，VNC服务器只有在本地登录后才可用。如果希望VNC自动启动，可以使用系统设置应用程序来启用自动登录功能。以下是在Jetson设备上启用自动登录的一般步骤：
+
+   1. 在Jetson设备上打开系统设置应用程序。
+   2. 寻找和选择"用户"或"账户"选项。
+   3. 在用户设置中，查找"自动登录"或"登录选项"。
+   4. 启用自动登录选项，并选择要自动登录的用户。
+   5. 保存更改并关闭系统设置应用程序。
 
 # Connecting to VNC service from another computer 
 
