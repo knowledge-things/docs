@@ -165,3 +165,54 @@ $ sudo jetson_clocks
      > If the application encounters errors and cannot create Gst elements, remove the GStreamer cache, then try again. To remove the GStreamer cache, enter this command: `$ rm ${HOME}/.cache/gstreamer-1.0/registry.aarch64.bin`
      >
      > When the application is run for a model which does not have an existing engine file, it may take up to a few minutes (depending on the platform and the model) for the file generation and the application launch. For later runs, these generated engine files can be reused for faster loading.
+
+## Installing the reference graphs
+
+Download reference graphs:
+
+```
+https://developer.nvidia.com/deepstream-getting-started
+```
+
+Install reference graphs:
+
+```bash
+sudo dpkg -i deepstream-reference-graphs-6.2.deb
+```
+
+Graphs are installed to:
+
+```
+/opt/nvidia/deepstream/deepstream/reference_graphs
+```
+
+### deepstream-test1
+
+Simplest example of using DeepStream for object detection. Demonstrates decoding video from a file, performing object detection and overlaying bounding boxes on the frames.
+
+Graph Files
+
+deepstream-test1.yaml – The main graph file
+parameters.yaml – File containing parameters for the various components in the graph
+README - Contains detailed graph description and execution instructions
+ds_test1_container_builder_dgpu.yaml - Configuration file for building application specific container for dGPU platform
+ds_test1_container_builder_jetson.yaml - Configuration file for building application specific container for Jetson platform
+
+Path - /opt/nvidia/deepstream/deepstream/reference_graphs/deepstream-test1
+
+Sample Commands:
+
+On x86:
+
+```
+$ /opt/nvidia/graph-composer/execute_graph.sh deepstream-test1.yaml \
+      parameters.yaml -d ../common/target_x86_64.yaml
+```
+
+On Jetson:
+
+```
+$ /opt/nvidia/graph-composer/execute_graph.sh deepstream-test1.yaml \
+      parameters.yaml -d ../common/target_aarch64.yaml
+```
+

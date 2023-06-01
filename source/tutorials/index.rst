@@ -21,3 +21,10 @@ Nvidia
 
 .. toctree::
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
+
+============
+AI Toolkit
+============
+
+.. toctree::
+    ClearML Setup <https://hub.docker.com/r/allegroai/clearml>
