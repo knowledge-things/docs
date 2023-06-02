@@ -28,7 +28,12 @@ Welcome to DeepLearning's documentation!
 
    models/index.rst
 
-   
+.. toctree::
+   :maxdepth: 2
+   :caption: ✏️ Bug Fixed
+
+   issues/index.rst
+
 ==================
 
 * :ref:`genindex`

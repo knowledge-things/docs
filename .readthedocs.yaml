@@ -11,3 +11,7 @@ python:
   # Install our python package before building the docs
   install:
     - requirements: requirements.txt
+
+formats:
+  - pdf
+  - epub
