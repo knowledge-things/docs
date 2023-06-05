@@ -24,7 +24,7 @@ Welcome to DeepLearning's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 📚 Model
+   :caption: 📚 Depth Network
 
    models/index.rst
 
