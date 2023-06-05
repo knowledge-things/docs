@@ -21,7 +21,9 @@ Nvidia
 ============
 
 .. toctree::
-
+    NVIDIA Omniverse <https://www.nvidia.com/en-us/omniverse/>
+    Isaac Nova Orin <https://developer.nvidia.cn/zh-cn/isaac/nova-orin>
+    NVIDIA Isaac ROS <https://github.com/NVIDIA-ISAAC-ROS>
     NVIDIA Optical Flow SDK <https://developer.nvidia.com/opticalflow-sdk>
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
 
@@ -35,3 +37,13 @@ AI Toolkit
     TAO Toolkit v4.0.1 Install <https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html>
     ClearML configuration <https://docs.nvidia.com/tao/tao-toolkit/text/mlops/clearml.html#configuring-the-clearml-element-in-the-training-spec>
     TAO AutoML <https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl>
+
+============
+AutoML
+============
+
+.. toctree::
+    机器学习实验管理 (ML Experiment Management) <ML-Experiment-Management.md>
+    TAO AutoML <https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl>
+    microsoft NNI <https://nni.readthedocs.io/zh/stable/>
+    comet.ml <https://www.comet.com/site/>
