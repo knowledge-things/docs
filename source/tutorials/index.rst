@@ -15,7 +15,8 @@ LiDAR系列
 .. toctree::
 
     SLAMTEC MAPPER应用笔记 <SLAMTEC-MAPPER.md>
-
+    Lidar-Camera Deep Fusion <https://ai.googleblog.com/2022/04/lidar-camera-deep-fusion-for-multi.html>
+    R3LIVE RGB-colored, LiDAR-Inertial-Visual <https://github.com/hku-mars/r3live>
 ============
 Nvidia
 ============
@@ -47,3 +48,11 @@ AutoML
     TAO AutoML <https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl>
     microsoft NNI <https://nni.readthedocs.io/zh/stable/>
     comet.ml <https://www.comet.com/site/>
+    AIM An easy-to-use & supercharged open-source AI metadata tracker. <https://github.com/aimhubio/aim#-demos>
+
+============
+IDE
+============
+
+.. toctree::
+    Lightly Cloud IDE <https://lightly.teamcode.com>
