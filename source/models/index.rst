@@ -1,3 +1,10 @@
+Paper 
+===============
+
+.. toctree::
+    CVPR2022 有什么值得关注的论文 ? <https://www.zhihu.com/question/517340666/answer/2381304399>
+
+
 Learn  website
 ================
 
@@ -45,6 +52,12 @@ YOLO Series
     edgeyolo <https://github.com/LSH9832/edgeyolo>
     yolov7-pose-estimation <https://github.com/RizwanMunawar/yolov7-pose-estimation>
 
+
+Segment
+===============
+
+.. toctree::
+    NVIDA semantic-segmentation <https://github.com/NVIDIA/semantic-segmentation/tree/main>
 
 ===============
 LLM Zoo

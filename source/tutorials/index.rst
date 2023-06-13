@@ -22,11 +22,29 @@ Nvidia
 ============
 
 .. toctree::
+    NVIDIA DALI 图片预处理加速库 <https://github.com/NVIDIA/DALI/tree/main>
+    Automatic Augmentation pre-process<https://developer.nvidia.com/zh-cn/blog/why-automatic-augmentation-matters/>
     NVIDIA Omniverse <https://www.nvidia.com/en-us/omniverse/>
+    Omniverse Developer Guide <https://docs.omniverse.nvidia.com/prod_kit/prod_kit/overview.html>
     Isaac Nova Orin <https://developer.nvidia.cn/zh-cn/isaac/nova-orin>
     NVIDIA Isaac ROS <https://github.com/NVIDIA-ISAAC-ROS>
     NVIDIA Optical Flow SDK <https://developer.nvidia.com/opticalflow-sdk>
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
+    Accelerated GStreamer <https://docs.nvidia.com/jetson/archives/r35.2.1/DeveloperGuide/text/SD/Multimedia/AcceleratedGstreamer.html>
+
+DeepStream
+============
+
+.. toctree::
+    Gst-nvdewarper <https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_plugin_gst-nvdewarper.html>
+    Deepstream-Dewarper-App <https://github.com/NVIDIA-AI-IOT/Deepstream-Dewarper-App>
+    DeepStream畸变矫正  <https://blog.csdn.net/mao_hui_fei/article/details/116496768>
+
+Technical Blog
+==============
+
+.. toctree::
+    Deploying Your Custom Action Recognition Application <https://developer.nvidia.com/zh-cn/blog/developing-and-deploying-your-custom-action-recognition-application-without-any-ai-expertise-using-tao-and-deepstream/>
 
 ============
 AI Toolkit
