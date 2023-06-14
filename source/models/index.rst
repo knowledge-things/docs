@@ -3,6 +3,7 @@ Paper
 
 .. toctree::
     CVPR2022 有什么值得关注的论文 ? <https://www.zhihu.com/question/517340666/answer/2381304399>
+    Collections 会议论文集和期刊 <paper_collections.md>
 
 
 Learn  website
@@ -59,7 +60,7 @@ Segment
 .. toctree::
     NVIDA semantic-segmentation <https://github.com/NVIDIA/semantic-segmentation/tree/main>
 
-===============
+
 LLM Zoo
 ===============
 
@@ -71,14 +72,18 @@ LLM Zoo
     langchain-ChatGLM  基于本地知识库的 ChatGLM 问答<https://github.com/imClumsyPanda/langchain-ChatGLM>
     LangChain-ChatGLM-Webui <https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui>
     GPT Academic <https://github.com/binary-husky/gpt_academic>
+    Open LLM Leaderboard <https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard>
+    MOSS 模型 <https://github.com/OpenLMLab/MOSS>
+    LLaVA: Large Language and Vision Assistant <https://llava-vl.github.io>
+    Docker Build ChatGLM-6B <docker_chatgml.md>
 
-===========================
+
 MultiModal Machine Learning
 ===========================
 .. toctree::
     Multi-Source Data Fusion MDPI <https://www.mdpi.com/1424-8220/23/4/1823>
 
-===============
+
 DataSet
 ===============
 

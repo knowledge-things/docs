@@ -69,8 +69,9 @@ AutoML
     AIM An easy-to-use & supercharged open-source AI metadata tracker. <https://github.com/aimhubio/aim#-demos>
 
 ============
-IDE
+IDE Toolkit
 ============
 
 .. toctree::
     Lightly Cloud IDE <https://lightly.teamcode.com>
+    git-lfs <https://github.com/git-lfs/git-lfs/blob/main/INSTALLING.md>
