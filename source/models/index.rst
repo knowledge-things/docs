@@ -4,7 +4,15 @@ Paper
 .. toctree::
     CVPR2022 有什么值得关注的论文 ? <https://www.zhihu.com/question/517340666/answer/2381304399>
     Collections 会议论文集和期刊 <paper_collections.md>
+    LORA <https://arxiv.org/pdf/2106.09685.pdf>
+    Computer Vision in the Wild (CVinW) <https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings>
 
+playground
+================
+
+.. toctree::
+    EditAnything <https://github.com/sail-sg/EditAnything>
+    diffusionbee <https://github.com/divamgupta/diffusionbee-stable-diffusion-ui>
 
 Learn  website
 ================
@@ -13,12 +21,28 @@ Learn  website
     roboflow notebooks <https://github.com/roboflow/notebooks>
     Prompt Engineering Guide <https://www.promptingguide.ai/models/flan>
     langchain <https://python.langchain.com/en/latest/modules/prompts/prompt_templates/getting_started.html>
+    Awesome-Anything <https://github.com/VainF/Awesome-Anything>
+    AI-Competition-Collections <https://github.com/SWHL/AI-Competition-Collections/tree/main>
+    SAHI: Slicing Aided Hyper Inference <https://github.com/obss/sahi>
+    SAHI: A vision library for large-scale object detection & instance segmentation <https://medium.com/codable/sahi-a-vision-library-for-performing-sliced-inference-on-large-images-small-objects-c8b086af3b80>
+
+==================
+ Computer Vision
+==================
+.. toctree::
+    Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP <https://github.com/facebookresearch/ov-seg>
 
 Object Detection
 ==================
 
 .. toctree::
     TAO Pretrained Object Detection <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/pretrained_object_detection>
+
+Re-Identification
+=================
+
+.. toctree::
+    
 
 Action recognition
 ==================
@@ -36,6 +60,7 @@ Action recognition
     Action Recognition Model Zoo <https://github.com/open-mmlab/mmaction/blob/master/MODEL_ZOO.md>
     TAO ActionRecognitionNet <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/resources/cv_samples/version/v1.4.1/files/action_recognition_net/actionrecognitionnet.ipynb>
     NVIDIA TAO Body Pose Estimation <https://docs.nvidia.com/tao/tao-toolkit/text/bodypose_estimation/bodyposenet.html>
+    基于Paddle的智慧交通预测系统 <https://aistudio.baidu.com/aistudio/projectdetail/4542547>
 
 YOLO Series
 ============
@@ -76,12 +101,27 @@ LLM Zoo
     MOSS 模型 <https://github.com/OpenLMLab/MOSS>
     LLaVA: Large Language and Vision Assistant <https://llava-vl.github.io>
     Docker Build ChatGLM-6B <docker_chatgml.md>
+    中文大模型集合 <https://my.oschina.net/oscpyaqxylk/blog/8727824>
+    
 
+Visual Language
+===============
+
+.. toctree::
+    ViperGPT: Visual Inference via Python Execution for Reasoning <https://github.com/cvlab-columbia/viper>
 
 MultiModal Machine Learning
 ===========================
 .. toctree::
     Multi-Source Data Fusion MDPI <https://www.mdpi.com/1424-8220/23/4/1823>
+
+
+Text-to-Image Generation
+========================
+.. toctree::
+    GLIGEN: Open-Set Grounded Text-to-Image Generation <https://gligen.github.io>
+    stable-diffusion-webui <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
+    stable-diffusion-webui-docker <https://github.com/AbdBarho/stable-diffusion-webui-docker>
 
 
 DataSet
@@ -90,3 +130,5 @@ DataSet
 .. toctree::
     Waymo autonomous driving  <https://github.com/waymo-research/waymo-open-dataset>
     waymo challenges <https://waymo.com/open/challenges/>
+    imagenet1000_clsidx_to_labels <https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a#file-imagenet1000_clsid_to_human-txt>
+    ImageNet Object Localization Challenge 167.62 GB <https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data>

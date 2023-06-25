@@ -17,6 +17,7 @@ LiDAR系列
     SLAMTEC MAPPER应用笔记 <SLAMTEC-MAPPER.md>
     Lidar-Camera Deep Fusion <https://ai.googleblog.com/2022/04/lidar-camera-deep-fusion-for-multi.html>
     R3LIVE RGB-colored, LiDAR-Inertial-Visual <https://github.com/hku-mars/r3live>
+
 ============
 Nvidia
 ============
@@ -31,6 +32,7 @@ Nvidia
     NVIDIA Optical Flow SDK <https://developer.nvidia.com/opticalflow-sdk>
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
     Accelerated GStreamer <https://docs.nvidia.com/jetson/archives/r35.2.1/DeveloperGuide/text/SD/Multimedia/AcceleratedGstreamer.html>
+    Nvida Triton Inference Server tutorial <Triton_tutroial.md>
 
 DeepStream
 ============
@@ -75,3 +77,10 @@ IDE Toolkit
 .. toctree::
     Lightly Cloud IDE <https://lightly.teamcode.com>
     git-lfs <https://github.com/git-lfs/git-lfs/blob/main/INSTALLING.md>
+
+===========
+Docker
+===========
+
+.. toctree::
+    Docker tini进程管理器 <https://cloud-atlas.readthedocs.io/zh_CN/latest/docker/init/docker_tini.html>
