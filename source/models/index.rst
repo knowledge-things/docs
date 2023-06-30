@@ -6,6 +6,8 @@ Paper
     Collections 会议论文集和期刊 <paper_collections.md>
     LORA <https://arxiv.org/pdf/2106.09685.pdf>
     Computer Vision in the Wild (CVinW) <https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings>
+    会议论文集和期刊 <https://www.jarvis73.com/collection/#conferences>
+    paper-computer-vision <https://github.com/haozhangcn/paper-computer-vision/blob/0aa051573f2e6293e72ce1ddcfb7bef34d64e052/2022/202206/20220614.md>
 
 playground
 ================
@@ -13,6 +15,11 @@ playground
 .. toctree::
     EditAnything <https://github.com/sail-sg/EditAnything>
     diffusionbee <https://github.com/divamgupta/diffusionbee-stable-diffusion-ui>
+    Discover AI Technologies <https://lablab.ai/tech>
+    任务驱动的自治代理 <https://github.com/yoheinakajima/babyagi>
+    使用接地DINO进行自动图像标记 <https://www.kdnuggets.com/2023/05/automatic-image-labeling-grounding-dino.html>
+    Awesome colab notebooks collection <https://github.com/amrzv/awesome-colab-notebooks.git>
+    replicate playground Collections <https://replicate.com/collections/super-resolution>
 
 Learn  website
 ================
@@ -25,18 +32,25 @@ Learn  website
     AI-Competition-Collections <https://github.com/SWHL/AI-Competition-Collections/tree/main>
     SAHI: Slicing Aided Hyper Inference <https://github.com/obss/sahi>
     SAHI: A vision library for large-scale object detection & instance segmentation <https://medium.com/codable/sahi-a-vision-library-for-performing-sliced-inference-on-large-images-small-objects-c8b086af3b80>
+    fine-tuning CLIP Model + Custom Pipeline for Image Similarity <https://www.width.ai/post/92-44-product-similarity-through-fine-tuning-clip-model-custom-pipeline-for-image-similarity>
+    Google research <https://ai.googleblog.com/?m=1>
+    OpenMMLabCamp 训练营<https://github.com/open-mmlab/OpenMMLabCamp/blob/main/README.md>
+    coding-interview-university <https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md>
 
-==================
- Computer Vision
+Computer Vision
 ==================
 .. toctree::
     Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP <https://github.com/facebookresearch/ov-seg>
+    DINOv2: State-of-the-art computer vision models with self-supervised learning <https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/>
+    F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models <https://github.com/google-research/google-research/blob/c31def47370fbdfa385275f150462b1dfaaadf1f/fvlm/README.md>
+    Awesome-Open-Vocabulary-Object-Detection <https://github.com/YimingCuiCuiCui/awesome-open-vocabulary-object-detection>
 
 Object Detection
 ==================
 
 .. toctree::
     TAO Pretrained Object Detection <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/pretrained_object_detection>
+    slicing-aided-hyper-inference <https://learnopencv.com/slicing-aided-hyper-inference/>
 
 Re-Identification
 =================
@@ -84,7 +98,11 @@ Segment
 
 .. toctree::
     NVIDA semantic-segmentation <https://github.com/NVIDIA/semantic-segmentation/tree/main>
-
+    Segment Anything in High Quality <https://huggingface.co/spaces/sam-hq-team/sam-hq>
+    huggingface/Segment-Anything-Video <https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video>
+    github/segment-anything-video <https://github.com/kadirnar/segment-anything-video>
+    Prompt-Segment-Anything <https://github.com/RockeyCoss/Prompt-Segment-Anything/tree/master>
+    huggingface/Prompt-Segment-Anything-Demo <https://huggingface.co/spaces/rockeycoss/Prompt-Segment-Anything-Demo>
 
 LLM Zoo
 ===============
@@ -102,19 +120,32 @@ LLM Zoo
     LLaVA: Large Language and Vision Assistant <https://llava-vl.github.io>
     Docker Build ChatGLM-6B <docker_chatgml.md>
     中文大模型集合 <https://my.oschina.net/oscpyaqxylk/blog/8727824>
-    
+    LLM （大语言模型）整理 <https://my.oschina.net/oscpyaqxylk/blog/8727824>
+    Chinese-Vicuna <https://github.com/Facico/Chinese-Vicuna/tree/master>
+    haotian-liu/LLaVA <https://github.com/haotian-liu/LLaVA>
+    Chinese-LLaMA-Alpaca <https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki/模型推理与部署>
+    llama-docker-playground <https://github.com/soulteary/llama-docker-playground>
 
 Visual Language
 ===============
 
 .. toctree::
     ViperGPT: Visual Inference via Python Execution for Reasoning <https://github.com/cvlab-columbia/viper>
+    vision_language_pretraining.md <https://github.com/huggingface/blog/blob/7317911dac44caf135ff37615427f16040a86f40/vision_language_pretraining.md>
+    GLIP Grounded Language-Image Pre-training <https://github.com/microsoft/GLIP>
 
 MultiModal Machine Learning
 ===========================
 .. toctree::
     Multi-Source Data Fusion MDPI <https://www.mdpi.com/1424-8220/23/4/1823>
 
+Paddle
+============
+.. toctree::
+    PP-YOLOE-SOD 小目标检测模型 <https://github.com/PaddlePaddle/PaddleDetection/blob/0128c6d6ef0c846bcbb272960d8b20d80948f3fa/configs/smalldet/README.md>
+    输电通道隐患目标检测算法baseline <https://aistudio.baidu.com/aistudio/projectdetail/6428247?forkThirdPart=1>
+    paddledetection readthedocs <https://paddledetection.readthedocs.io/index.html>
+    PaddleYOLO <https://github.com/PaddlePaddle/PaddleYOLO>
 
 Text-to-Image Generation
 ========================
@@ -123,6 +154,15 @@ Text-to-Image Generation
     stable-diffusion-webui <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
     stable-diffusion-webui-docker <https://github.com/AbdBarho/stable-diffusion-webui-docker>
 
+HuggingFace Model Card
+======================
+.. toctree::
+    gpt4-x-alpaca-13b-native-4bit-128g-cuda <https://huggingface.co/4bit/gpt4-x-alpaca-13b-native-4bit-128g-cuda>
+    Open LLM Leaderboard <https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard>
+    liuhaotian/LLaVA-13b-delta-v0 <https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0>
+    microsoft/visual_chatgpt <https://huggingface.co/spaces/microsoft/visual_chatgpt>
+    LLaVA: Large Language and Vision Assistant <https://llava.hliu.cc>
+    Visual Instruction Tuning LLaVA: Large Language and Vision Assistant <https://llava-vl.github.io>
 
 DataSet
 ===============

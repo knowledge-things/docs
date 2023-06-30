@@ -84,3 +84,11 @@ Docker
 
 .. toctree::
     Docker tini进程管理器 <https://cloud-atlas.readthedocs.io/zh_CN/latest/docker/init/docker_tini.html>
+
+===============
+Utility 实用工具
+===============
+
+.. toctree::
+    Streamlit Image component https://huggingface.co/spaces/fcakyon/streamlit-image-comparison
+    Image Deduplication with FiftyOne <https://github.com/voxel51/fiftyone/blob/v0.21.0/docs/source/recipes/image_deduplication.ipynb>
