@@ -8,6 +8,7 @@ Paper
     Computer Vision in the Wild (CVinW) <https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings>
     会议论文集和期刊 <https://www.jarvis73.com/collection/#conferences>
     paper-computer-vision <https://github.com/haozhangcn/paper-computer-vision/blob/0aa051573f2e6293e72ce1ddcfb7bef34d64e052/2022/202206/20220614.md>
+    CVPR 2023 论文和开源项目合集(Papers with Code) <https://github.com/amusi/CVPR2023-Papers-with-Code>
 
 playground
 ================
@@ -75,6 +76,7 @@ Action recognition
     TAO ActionRecognitionNet <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/resources/cv_samples/version/v1.4.1/files/action_recognition_net/actionrecognitionnet.ipynb>
     NVIDIA TAO Body Pose Estimation <https://docs.nvidia.com/tao/tao-toolkit/text/bodypose_estimation/bodyposenet.html>
     基于Paddle的智慧交通预测系统 <https://aistudio.baidu.com/aistudio/projectdetail/4542547>
+    deepstream-bodypose-3d <https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps/tree/master/deepstream-bodypose-3d>
 
 YOLO Series
 ============
@@ -133,6 +135,7 @@ Visual Language
     ViperGPT: Visual Inference via Python Execution for Reasoning <https://github.com/cvlab-columbia/viper>
     vision_language_pretraining.md <https://github.com/huggingface/blog/blob/7317911dac44caf135ff37615427f16040a86f40/vision_language_pretraining.md>
     GLIP Grounded Language-Image Pre-training <https://github.com/microsoft/GLIP>
+    LLaVA: Large Language and Vision Assistant <https://llava-vl.github.io>
 
 MultiModal Machine Learning
 ===========================
@@ -172,3 +175,4 @@ DataSet
     waymo challenges <https://waymo.com/open/challenges/>
     imagenet1000_clsidx_to_labels <https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a#file-imagenet1000_clsid_to_human-txt>
     ImageNet Object Localization Challenge 167.62 GB <https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data>
+    使用cocotools进行F1-Score评估 <cocotools_cal_f1_score.md>

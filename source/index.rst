@@ -30,6 +30,12 @@ Welcome to DeepLearning's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: ❤️  Computer science
+
+   cs/index.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: ✏️ Bug Fixed
 
    issues/index.rst

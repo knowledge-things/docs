@@ -33,6 +33,7 @@ Nvidia
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
     Accelerated GStreamer <https://docs.nvidia.com/jetson/archives/r35.2.1/DeveloperGuide/text/SD/Multimedia/AcceleratedGstreamer.html>
     Nvida Triton Inference Server tutorial <Triton_tutroial.md>
+    NVIDIA DCGM <https://developer.nvidia.com/dcgm#Downloads>
 
 DeepStream
 ============
