@@ -93,3 +93,4 @@ Utility 实用工具
 .. toctree::
     Streamlit Image component https://huggingface.co/spaces/fcakyon/streamlit-image-comparison
     Image Deduplication with FiftyOne <https://github.com/voxel51/fiftyone/blob/v0.21.0/docs/source/recipes/image_deduplication.ipynb>
+    Managing SSH keys for Github and Gitlab <https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb>
