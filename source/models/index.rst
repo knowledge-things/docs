@@ -149,6 +149,7 @@ Paddle
     输电通道隐患目标检测算法baseline <https://aistudio.baidu.com/aistudio/projectdetail/6428247?forkThirdPart=1>
     paddledetection readthedocs <https://paddledetection.readthedocs.io/index.html>
     PaddleYOLO <https://github.com/PaddlePaddle/PaddleYOLO>
+    FastDeploy deploy Jetson <https://aistudio.baidu.com/aistudio/projectdetail/4597810>
 
 Text-to-Image Generation
 ========================
