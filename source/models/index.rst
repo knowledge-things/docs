@@ -52,6 +52,7 @@ Object Detection
 .. toctree::
     TAO Pretrained Object Detection <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/pretrained_object_detection>
     slicing-aided-hyper-inference <https://learnopencv.com/slicing-aided-hyper-inference/>
+    PaddleDetection实现人流量统计人体检测 <https://blog.csdn.net/m0_63642362/article/details/121434604>
 
 Re-Identification
 =================
@@ -127,6 +128,7 @@ LLM Zoo
     haotian-liu/LLaVA <https://github.com/haotian-liu/LLaVA>
     Chinese-LLaMA-Alpaca <https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki/模型推理与部署>
     llama-docker-playground <https://github.com/soulteary/llama-docker-playground>
+    LLMsPracticalGuide  大型语言模型实用指南 <https://github.com/Mooler0410/LLMsPracticalGuide>
 
 Visual Language
 ===============

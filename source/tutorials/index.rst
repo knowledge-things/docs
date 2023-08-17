@@ -33,6 +33,7 @@ Nvidia
     Triton Inference Server <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/jetson.html>
     Accelerated GStreamer <https://docs.nvidia.com/jetson/archives/r35.2.1/DeveloperGuide/text/SD/Multimedia/AcceleratedGstreamer.html>
     Nvida Triton Inference Server tutorial <Triton_tutroial.md>
+    JavaCPP Presets for Triton Inference Server <https://github.com/bytedeco/javacpp-presets/tree/11e33fc04ac145f92ba96a59bfde15a887f10545/tritonserver#javacpp-presets-for-triton-inference-server>
     NVIDIA DCGM <https://developer.nvidia.com/dcgm#Downloads>
 
 DeepStream
@@ -86,12 +87,29 @@ Docker
 .. toctree::
     Docker tini进程管理器 <https://cloud-atlas.readthedocs.io/zh_CN/latest/docker/init/docker_tini.html>
 
-===============
+=================
 Utility 实用工具
-===============
+=================
 
 .. toctree::
     Streamlit Image component https://huggingface.co/spaces/fcakyon/streamlit-image-comparison
     Image Deduplication with FiftyOne <https://github.com/voxel51/fiftyone/blob/v0.21.0/docs/source/recipes/image_deduplication.ipynb>
     Visualizing Object Detections <https://medium.com/voxel51/visualizing-object-detections-9d0ed766297c>
     Managing SSH keys for Github and Gitlab <https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb>
+
+C++
+==================
+
+.. toctree::
+    C++ reference <https://en.cppreference.com/w/>
+    CMake Tutorial <https://cmake.org/cmake/help/latest/guide/tutorial/index.html>
+    CMake Symbols Index <CMake_Symbols_Index.md>
+    Awesome CMake <https://github.com/onqtam/awesome-cmake>
+    RapidJSON Documentation <https://rapidjson.org>
+    libevent 编译缺少openssl 原因是没有安装 libssl-dev <libevent.md>
+
+Java
+===================
+
+.. toctree::
+    LMAX Disruptor <https://lmax-exchange.github.io/disruptor/>

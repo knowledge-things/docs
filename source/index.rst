@@ -19,8 +19,9 @@ Welcome to DeepLearning's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
-   :caption: 🪄 How-to guides
+   :caption: 🪄 Guides
+
+   guides/index.rst
 
 .. toctree::
    :maxdepth: 2
