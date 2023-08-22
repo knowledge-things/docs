@@ -8,6 +8,13 @@ Jetson系列
     NVIDIA Jetson上部署YOLOv8 <https://wiki.seeedstudio.com/YOLOv8-DeepStream-TRT-Jetson/>
     Jetson Enable VNC server <vnc-setup.md>
     
+===========
+ROS
+===========
+.. toctree::
+    Jetson install of ROS Noetic <Jetson_install_of_ROS_Noetic.md>
+    创建你的第一个ROS工作区 <>
+
 ============
 LiDAR系列
 ============
