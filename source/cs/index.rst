@@ -26,6 +26,14 @@ cs course
     UCB CS 61A：计算机程序的结构和解释 <https://cs61a.org>
     计算机公开课推荐 <https://github.com/apachecn/awesome-cs-courses-zh>
 
+Machine Learning
+================
+
+... toctree::
+    [Stanford CS 329S] 机器学习系统设计 <https://stanford-cs329s.github.io/syllabus.html>
+    [Stanford CS 329P] Practical Machine Learning <https://www.youtube.com/playlist?list=PLuQUxYHEVjGmekUNx8OySHpD9-x5GJt0N>
+    [机器学习] d2l.ai <http://courses.d2l.ai>
+
 MIT cs course
 ====================
 

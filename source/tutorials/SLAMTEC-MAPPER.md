@@ -21,6 +21,8 @@ Slamware ROS SDK包含了您开发过程中可能会用到的资源、代码，�
 
 ## 2. 配置ROS环境
 
+*如安装noetic-desktop x86 版本可参考https://roboticseabass.com/2021/04/21/docker-and-ros/*
+
 1. 获取ROS Noetic Docker镜像:
 ```
  docker pull ros:noetic
@@ -57,7 +59,7 @@ catkin_make
   SLAMTEC Mapper雷达与计算机之间是通过Wi-Fi连接,当设备正常启动后，打开您的无线网络适配器，您将看到热点 SLAMWARE-XXXXXX “ 默认 IP 为 192.168.11.1
   
   使用`--net=host`参数运行Docker容器，以便容器可以访问主机网络：
-`docker run -it --name ros-noetic-container --net=host ros:noetic /bin/bash`
+`docker run -it --net=host --name  ros-noetic-container --net=host ros:noetic /bin/bash`
 
 8. 修改SLAMTEC ROS SDK中的launch文件以使用设备的IP地址。导航到`slamtec_ros_sdk/launch`文件夹，打开`slamware.launch`文件并找到以下行：
 ```bash 
