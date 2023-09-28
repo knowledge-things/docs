@@ -14,6 +14,9 @@ ROS
 .. toctree::
     Jetson install of ROS Noetic <Jetson_install_of_ROS_Noetic.md>
     创建你的第一个ROS工作区 <make_your_first_workspace.md>
+    Docker 和 ROS 指南 <ros_install_docker.md>
+    A Guide to Docker and ROS <https://roboticseabass.com/2021/04/21/docker-and-ros/>
+    ROS常用命令 <ros_man.md>
 
 ============
 LiDAR系列
@@ -50,6 +53,7 @@ DeepStream
     Gst-nvdewarper <https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_plugin_gst-nvdewarper.html>
     Deepstream-Dewarper-App <https://github.com/NVIDIA-AI-IOT/Deepstream-Dewarper-App>
     DeepStream畸变矫正  <https://blog.csdn.net/mao_hui_fei/article/details/116496768>
+    Managing Video Streams in Runtime with the NVIDIA DeepStream SDK <https://www.edge-ai-vision.com/2022/02/managing-video-streams-in-runtime-with-the-nvidia-deepstream-sdk/>
 
 Technical Blog
 ==============
@@ -103,6 +107,7 @@ Utility 实用工具
     Image Deduplication with FiftyOne <https://github.com/voxel51/fiftyone/blob/v0.21.0/docs/source/recipes/image_deduplication.ipynb>
     Visualizing Object Detections <https://medium.com/voxel51/visualizing-object-detections-9d0ed766297c>
     Managing SSH keys for Github and Gitlab <https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb>
+    theia-ide develop and deliver  with Cloud <https://github.com/eclipse-theia/theia>
 
 C++
 ==================
@@ -120,3 +125,10 @@ Java
 
 .. toctree::
     LMAX Disruptor <https://lmax-exchange.github.io/disruptor/>
+
+安全相关
+====================
+
+.. toctree::
+    Fortify Integration Ecosystem <https://www.microfocus.com/en-us/cyberres/application-security/ecosystem>
+    GitLab 集成 Fortify <https://www.microfocus.com/zh-tw/fortify-integrations/gitlab>

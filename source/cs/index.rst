@@ -29,7 +29,7 @@ cs course
 Machine Learning
 ================
 
-... toctree::
+.. toctree::
     [Stanford CS 329S] 机器学习系统设计 <https://stanford-cs329s.github.io/syllabus.html>
     [Stanford CS 329P] Practical Machine Learning <https://www.youtube.com/playlist?list=PLuQUxYHEVjGmekUNx8OySHpD9-x5GJt0N>
     [机器学习] d2l.ai <http://courses.d2l.ai>

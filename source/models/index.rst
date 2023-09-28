@@ -9,6 +9,7 @@ Paper
     会议论文集和期刊 <https://www.jarvis73.com/collection/#conferences>
     paper-computer-vision <https://github.com/haozhangcn/paper-computer-vision/blob/0aa051573f2e6293e72ce1ddcfb7bef34d64e052/2022/202206/20220614.md>
     CVPR 2023 论文和开源项目合集(Papers with Code) <https://github.com/amusi/CVPR2023-Papers-with-Code>
+    Image Captioning <https://paperswithcode.com/task/image-captioning#task-home>
 
 playground
 ================
@@ -53,6 +54,7 @@ Object Detection
     TAO Pretrained Object Detection <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/pretrained_object_detection>
     slicing-aided-hyper-inference <https://learnopencv.com/slicing-aided-hyper-inference/>
     PaddleDetection实现人流量统计人体检测 <https://blog.csdn.net/m0_63642362/article/details/121434604>
+    FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization <https://arxiv.org/pdf/2303.14189.pdf>
 
 Re-Identification
 =================
@@ -179,3 +181,9 @@ DataSet
     imagenet1000_clsidx_to_labels <https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a#file-imagenet1000_clsid_to_human-txt>
     ImageNet Object Localization Challenge 167.62 GB <https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data>
     使用cocotools进行F1-Score评估 <cocotools_cal_f1_score.md>
+
+NLP
+=============
+
+.. toctree::
+    图解Transformer <https://blog.csdn.net/longxinchen_ml/article/details/86533005>
