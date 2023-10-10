@@ -22,6 +22,7 @@ playground
     使用接地DINO进行自动图像标记 <https://www.kdnuggets.com/2023/05/automatic-image-labeling-grounding-dino.html>
     Awesome colab notebooks collection <https://github.com/amrzv/awesome-colab-notebooks.git>
     replicate playground Collections <https://replicate.com/collections/super-resolution>
+    A Simple Object Detection App Built Using Streamlit And OpenCV. <https://blog.devgenius.io/a-simple-object-detection-app-built-using-streamlit-and-opencv-4365c90f293c>
 
 Learn  website
 ================
