@@ -71,6 +71,7 @@ AI Toolkit
     TAO Toolkit v4.0.1 Install <https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html>
     ClearML configuration <https://docs.nvidia.com/tao/tao-toolkit/text/mlops/clearml.html#configuring-the-clearml-element-in-the-training-spec>
     TAO AutoML <https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl>
+    Spotlight <https://github.com/Renumics/spotlight>
 
 ============
 AutoML

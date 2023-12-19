@@ -39,6 +39,8 @@ Learn  website
     Google research <https://ai.googleblog.com/?m=1>
     OpenMMLabCamp 训练营<https://github.com/open-mmlab/OpenMMLabCamp/blob/main/README.md>
     coding-interview-university <https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md>
+    Nvidia DeepLearningExamples <https://github.com/NVIDIA/DeepLearningExamples/tree/master>
+    Pose estimation for AR and Robotics BOP: Benchmark for 6D Object Pose Estimation <https://bop.felk.cvut.cz/home/> 
 
 Computer Vision
 ==================
@@ -132,6 +134,8 @@ LLM Zoo
     Chinese-LLaMA-Alpaca <https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki/模型推理与部署>
     llama-docker-playground <https://github.com/soulteary/llama-docker-playground>
     LLMsPracticalGuide  大型语言模型实用指南 <https://github.com/Mooler0410/LLMsPracticalGuide>
+    Tuning LLMs <https://github.com/beyondguo/LLM-Tuning>
+    百川智能 Baichaun-7B, Baichuan2-7B <https://huggingface.co/baichuan-inc/Baichuan-7B>
 
 Visual Language
 ===============
@@ -188,3 +192,40 @@ NLP
 
 .. toctree::
     图解Transformer <https://blog.csdn.net/longxinchen_ml/article/details/86533005>
+    HanLP <https://hanlp.hankcs.com/docs/index.html>
+    全文索引 分词和搜索 <https://github.com/Kevin-wenyu/blog/blob/18abfa6b21b50682e663acd78ae45ce694be5c40/201611/20161115_01.md>
+    Top-AI-Conferences-Paper-with-Code <https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/tree/1d03a4fec72344192836f8f6d8c16310fd855b35>
+
+Depth Estimation深度估计
+================
+
+.. toctree::
+    depth estimation papers <https://github.com/ssssober/Depth-Estimation>
+    Jetson Inference Depth <https://github.com/dusty-nv/jetson-inference/blob/master/docs/depthnet.md>
+
+天池比赛
+================
+
+.. toctree::
+    “阿里灵杰”问天引擎电商搜索算法赛 <https://tianchi.aliyun.com/competition/entrance/531946>
+    E-commerce-Search-Recall电商搜索召回第二名方案 <https://github.com/muyuuuu/E-commerce-Search-Recall>
+    [竞赛] “阿里灵杰”问天引擎电商搜索算法赛 第二名 <https://zhuanlan.zhihu.com/p/533923570>
+    “阿里灵杰”问天引擎电商搜索算法赛 <https://github.com/zwkkk/wentian-rank2>
+    Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval <https://github.com/Alibaba-NLP/Multi-CPR>
+    FT-Data Ranker: Fine-Tuning Data Processing Competition for LLMs <https://tianchi.aliyun.com/competition/entrance/532158/information>
+    FT-Data Ranker：大语言模型微调数据竞赛 -- 7B模型赛道 <https://tianchi.aliyun.com/competition/entrance/532158?spm=a2c22.12281949.0.0.605a3b74C9kT9o>
+
+ONNX
+=================
+
+.. toctree::
+    A collection of pre-trained, state-of-the-art models in the ONNX format <https://github.com/onnx/models/tree/main>
+
+Plate detection
+=================
+
+.. toctree::
+    Sample app code for LPR deployment on DeepStream deepstream_lpr_app <https://github.com/NVIDIA-AI-IOT/deepstream_lpr_app>
+    车牌检测（LPDNet） Model Card <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lpdnet>
+    License Plate Recognition (LPRNet) Model Card <https://registry.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lprnet>
+    Real-Time License Plate Detection and Recognition App <https://developer.nvidia.com/blog/creating-a-real-time-license-plate-detection-and-recognition-app>
