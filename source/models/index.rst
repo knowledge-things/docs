@@ -229,3 +229,9 @@ Plate detection
     车牌检测（LPDNet） Model Card <https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lpdnet>
     License Plate Recognition (LPRNet) Model Card <https://registry.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lprnet>
     Real-Time License Plate Detection and Recognition App <https://developer.nvidia.com/blog/creating-a-real-time-license-plate-detection-and-recognition-app>
+
+Audio Detection
+===============
+
+.. toctree::
+    音频标记的一致组合蒸馏（CED）Consistent Ensemble Distillation for Audio Tagging (CED) <https://github.com/RicherMans/CED>
