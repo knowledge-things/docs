@@ -1,8 +1,8 @@
-## git 添加子模块
+# git 添加子模块
 
 要在你的项目中添加一个子模块，可以按照以下步骤操作。这些步骤将指导你如何将 `https://github.com/RicherMans/CED.git` 添加到你的项目的 `third_party` 目录中。
 
-### 步骤1：导航到你的项目目录
+## 步骤1：导航到你的项目目录
 
 首先，确保你在你的项目的根目录下：
 
@@ -10,7 +10,7 @@
 cd /path/to/your/project
 ```
 
-### 步骤2：添加子模块
+## 步骤2：添加子模块
 
 使用 `git submodule add` 命令将子模块添加到 `third_party` 目录中：
 
@@ -18,7 +18,7 @@ cd /path/to/your/project
 git submodule add https://github.com/RicherMans/CED.git third_party/CED
 ```
 
-### 步骤3：初始化和更新子模块
+## 步骤3：初始化和更新子模块
 
 添加子模块后，需要初始化并更新子模块：
 
@@ -26,7 +26,7 @@ git submodule add https://github.com/RicherMans/CED.git third_party/CED
 git submodule update --init --recursive
 ```
 
-### 步骤4：提交子模块更改
+## 步骤4：提交子模块更改
 
 将子模块的更改提交到你的主仓库：
 
@@ -36,7 +36,7 @@ git commit -m "Add CED as a submodule in third_party directory"
 git push
 ```
 
-### 验证
+## 验证
 
 确保子模块添加成功，可以通过以下命令查看子模块的状态：
 
@@ -44,7 +44,7 @@ git push
 git submodule status
 ```
 
-### 全部命令总结
+## 全部命令总结
 
 以下是所有命令的总结，按顺序执行：
 
