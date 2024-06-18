@@ -11,6 +11,13 @@ Paper
     CVPR 2023 论文和开源项目合集(Papers with Code) <https://github.com/amusi/CVPR2023-Papers-with-Code>
     Image Captioning <https://paperswithcode.com/task/image-captioning#task-home>
 
+Formwork
+===========
+
+.. toctree::
+    kornia <https://github.com/kornia/kornia>
+
+
 playground
 ================
 
@@ -186,6 +193,7 @@ DataSet
     imagenet1000_clsidx_to_labels <https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a#file-imagenet1000_clsid_to_human-txt>
     ImageNet Object Localization Challenge 167.62 GB <https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data>
     使用cocotools进行F1-Score评估 <cocotools_cal_f1_score.md>
+    重复图片检测 Meta sscd-copy-detection <https://github.com/facebookresearch/sscd-copy-detection>
 
 NLP
 =============
@@ -235,3 +243,15 @@ Audio Detection
 
 .. toctree::
     音频标记的一致组合蒸馏（CED）Consistent Ensemble Distillation for Audio Tagging (CED) <https://github.com/RicherMans/CED>
+
+SfM(Structure-from-Motion)
+==========================
+Image Matching Workshop <https://www.kaggle.com/competitions/image-matching-challenge-2023/discussion/417407>
+SuperPoint <https://arxiv.org/pdf/1712.07629.pdf>
+COLMAP - Structure-from-Motion and Multi-View Stereo <https://github.com/colmap/colmap>
+
+3D Reconstruction
+=================
+
+.. toctree::
+    NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video <https://zju3dv.github.io/neuralrecon/>

@@ -133,3 +133,11 @@ Java
 .. toctree::
     Fortify Integration Ecosystem <https://www.microfocus.com/en-us/cyberres/application-security/ecosystem>
     GitLab 集成 Fortify <https://www.microfocus.com/zh-tw/fortify-integrations/gitlab>
+    python 文件混淆 <https://pyarmor.readthedocs.io/en/stable/tutorial/getting-started.html>
+
+====================
+常用命令
+====================
+
+.. toctree::
+    Git 添加第三方项目为子模块 <git_submodule.md>
