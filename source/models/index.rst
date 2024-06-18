@@ -246,9 +246,10 @@ Audio Detection
 
 SfM(Structure-from-Motion)
 ==========================
-Image Matching Workshop <https://www.kaggle.com/competitions/image-matching-challenge-2023/discussion/417407>
-SuperPoint <https://arxiv.org/pdf/1712.07629.pdf>
-COLMAP - Structure-from-Motion and Multi-View Stereo <https://github.com/colmap/colmap>
+.. toctree::
+    Image Matching Workshop <https://www.kaggle.com/competitions/image-matching-challenge-2023/discussion/417407>
+    SuperPoint <https://arxiv.org/pdf/1712.07629.pdf>
+    COLMAP - Structure-from-Motion and Multi-View Stereo <https://github.com/colmap/colmap>
 
 3D Reconstruction
 =================
