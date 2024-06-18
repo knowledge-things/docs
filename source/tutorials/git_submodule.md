@@ -6,9 +6,7 @@
 
 首先，确保你在你的项目的根目录下：
 
-```
-sh
-复制代码
+```shell
 cd /path/to/your/project
 ```
 
@@ -16,9 +14,7 @@ cd /path/to/your/project
 
 使用 `git submodule add` 命令将子模块添加到 `third_party` 目录中：
 
-```
-sh
-复制代码
+```shell
 git submodule add https://github.com/RicherMans/CED.git third_party/CED
 ```
 
@@ -26,9 +22,7 @@ git submodule add https://github.com/RicherMans/CED.git third_party/CED
 
 添加子模块后，需要初始化并更新子模块：
 
-```
-sh
-复制代码
+```shell
 git submodule update --init --recursive
 ```
 
@@ -36,9 +30,7 @@ git submodule update --init --recursive
 
 将子模块的更改提交到你的主仓库：
 
-```
-sh
-复制代码
+```shell
 git add .gitmodules third_party/CED
 git commit -m "Add CED as a submodule in third_party directory"
 git push
@@ -48,9 +40,7 @@ git push
 
 确保子模块添加成功，可以通过以下命令查看子模块的状态：
 
-```
-sh
-复制代码
+```shell
 git submodule status
 ```
 
@@ -58,9 +48,7 @@ git submodule status
 
 以下是所有命令的总结，按顺序执行：
 
-```
-sh
-复制代码
+```shell
 # 导航到项目根目录
 cd /path/to/your/project
 
