@@ -141,3 +141,4 @@ Java
 
 .. toctree::
     Git 添加第三方项目为子模块 <git_submodule.md>
+    Mac Enable Git Tab Autocomplete <git_autocomplete.md>
