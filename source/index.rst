@@ -1,15 +1,12 @@
-.. _topics-index:
-
 Welcome to DeepLearning's documentation!
 =============================================
 
-🚀 Tutorials
-============
-
 .. toctree::
    :maxdepth: 2
+   :caption: 🚀 Tutorials
 
    tutorials/index
+   tutorials/ros/index
 
 .. toctree::
    :maxdepth: 2
@@ -40,7 +37,6 @@ Welcome to DeepLearning's documentation!
 
    issues/index
 
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`

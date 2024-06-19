@@ -17,6 +17,9 @@ release = '0.1'
 extensions = ["myst_parser",'sphinx_copybutton']
 
 templates_path = ['_templates']
+# The master toctree document.
+master_doc = 'index'
+
 exclude_patterns = []
 
 language = 'zh_CN'
@@ -24,7 +27,8 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_rtd_theme"
+html_theme = 'sphinx_book_theme'
 # html_theme = 'alabaster'
 html_static_path = ['_static']
 
