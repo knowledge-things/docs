@@ -243,6 +243,12 @@ Audio Detection
 
 .. toctree::
     音频标记的一致组合蒸馏（CED）Consistent Ensemble Distillation for Audio Tagging (CED) <https://github.com/RicherMans/CED>
+    Audio-Classification-Deep-Learning using ANN,CNN1D,CNN2D Kaggle Notebook <https://www.kaggle.com/code/abishekas11/audio-classification-using-deep-learning>
+    Audio-Classification-Deep-Learning using ANN,CNN1D,CNN2D GitHub <https://github.com/abishek-as/Audio-Classification-Deep-Learning/tree/main>
+    Audio Classification Using ANN UrbanSound8K <https://www.kaggle.com/code/endofnight17j03/f-audio-classification#Graph-Between-Loss-and-Val-Loss>
+    Freesound Audio Tagging 2019 <https://www.kaggle.com/c/freesound-audio-tagging-2019>
+    Alibaba-MIIL AudioClassfication <https://github.com/Alibaba-MIIL/AudioClassfication>
+    Bird@Edge Bird Species Recognition at the Edge using NVIDIA Jetson Nano on the EﬀicientNet-B3 <https://github.com/umr-ds/BirdEdge/tree/main>
 
 SfM(Structure-from-Motion)
 ==========================
