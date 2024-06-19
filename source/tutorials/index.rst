@@ -3,6 +3,8 @@ Jetson系列
 ============
 
 .. toctree::
+    :maxdepth: 2
+
     Jetson DS Setup <Jetson-Setup.md>
     适用于Jetson和JetPack的PyTorch容器 <Jetson.md>
     NVIDIA Jetson上部署YOLOv8 <https://wiki.seeedstudio.com/YOLOv8-DeepStream-TRT-Jetson/>
@@ -13,6 +15,8 @@ ROS
 ===========
 
 .. toctree::
+    :maxdepth: 2
+    
     Jetson install of ROS Noetic <Jetson_install_of_ROS_Noetic.md>
     创建你的第一个ROS工作区 <make_your_first_workspace.md>
     Docker 和 ROS 指南 <ros_install_docker.md>
