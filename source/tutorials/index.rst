@@ -111,6 +111,7 @@ Utility 实用工具
     Visualizing Object Detections <https://medium.com/voxel51/visualizing-object-detections-9d0ed766297c>
     Managing SSH keys for Github and Gitlab <https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb>
     theia-ide develop and deliver  with Cloud <https://github.com/eclipse-theia/theia>
+    switch-cuda
 
 C++
 ==================
