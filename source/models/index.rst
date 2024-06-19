@@ -249,6 +249,11 @@ Audio Detection
     Freesound Audio Tagging 2019 <https://www.kaggle.com/c/freesound-audio-tagging-2019>
     Alibaba-MIIL AudioClassfication <https://github.com/Alibaba-MIIL/AudioClassfication>
     Bird@Edge Bird Species Recognition at the Edge using NVIDIA Jetson Nano on the EﬀicientNet-B3 <https://github.com/umr-ds/BirdEdge/tree/main>
+    BirdClef 2023: Pytorch Lightning-Inference <https://www.kaggle.com/code/nischaydnk/birdclef-2023-pytorch-lightning-inference>
+    PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition <https://github.com/qiuqiangkong/audioset_tagging_cnn>
+    Consistent Ensemble Distillation for Audio Tagging (CED) <https://github.com/RicherMans/CED>
+    Pretrained CED on 🤗 Hugging Face <https://github.com/jimbozhang/hf_transformers_custom_model_ced/tree/main>
+    Audio Classification, Tagging & Sound Event Detection in PyTorch <https://github.com/sithu31296/audio-tagging?tab=readme-ov-file>
 
 SfM(Structure-from-Motion)
 ==========================
