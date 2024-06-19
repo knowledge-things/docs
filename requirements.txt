@@ -4,3 +4,4 @@ recommonmark
 sphinx_rtd_theme
 sphinx-copybutton
 sphinx-book-theme
+furo
