@@ -99,7 +99,8 @@ Docker
     :maxdepth: 1
 
     Docker tini进程管理器 <https://cloud-atlas.readthedocs.io/zh_CN/latest/docker/init/docker_tini.html>
-
+    Docker Pull 设置代理 <docker_pull_proxy.md>
+    TensorFlow Docker安装 <tensortflow_docker.md>
 Utility 实用工具
 =================
 
@@ -112,8 +113,7 @@ Utility 实用工具
     Managing SSH keys for Github and Gitlab <https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb>
     theia-ide develop and deliver  with Cloud <https://github.com/eclipse-theia/theia>
     switch-cuda <switch-cuda.md>
-    PyPI配置镜像源 <PyPI_config_source.md>
-    Docker Pull 设置代理<docker_pull_proxy.md>
+    PyPI配置镜像源 <PyPI_config_source.md
 
 C++
 ==================
