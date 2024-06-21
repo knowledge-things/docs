@@ -113,6 +113,7 @@ Utility 实用工具
     theia-ide develop and deliver  with Cloud <https://github.com/eclipse-theia/theia>
     switch-cuda <switch-cuda.md>
     PyPI配置镜像源 <PyPI_config_source.md>
+    Docker Pull 设置代理<docker_pull_proxy.md>
 
 C++
 ==================
