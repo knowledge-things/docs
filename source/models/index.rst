@@ -254,6 +254,9 @@ Audio Detection
     Consistent Ensemble Distillation for Audio Tagging (CED) <https://github.com/RicherMans/CED>
     Pretrained CED on 🤗 Hugging Face <https://github.com/jimbozhang/hf_transformers_custom_model_ced/tree/main>
     Audio Classification, Tagging & Sound Event Detection in PyTorch <https://github.com/sithu31296/audio-tagging?tab=readme-ov-file>
+    audio label studio <https://labelstud.io/blog/understanding-audio-classification-everything-you-need-to-know/>
+    freesound <https://freesound.org>
+    An Introduction to Audio Classification with Keras <https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Introduction-to-Audio-Classification-with-Keras--Vmlldzo0MDQzNDUy>
 
 SfM(Structure-from-Motion)
 ==========================
