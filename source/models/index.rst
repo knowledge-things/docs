@@ -194,6 +194,7 @@ DataSet
     ImageNet Object Localization Challenge 167.62 GB <https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data>
     使用cocotools进行F1-Score评估 <cocotools_cal_f1_score.md>
     重复图片检测 Meta sscd-copy-detection <https://github.com/facebookresearch/sscd-copy-detection>
+    COCO JSON Format with supervision <https://roboflow.com/formats/coco-json>
 
 NLP
 =============
