@@ -70,6 +70,7 @@ AI Toolkit
     ClearML configuration <https://docs.nvidia.com/tao/tao-toolkit/text/mlops/clearml.html#configuring-the-clearml-element-in-the-training-spec>
     TAO AutoML <https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl>
     Spotlight <https://github.com/Renumics/spotlight>
+    Calculate token/s & GPU memory <https://github.com/RahulSChand/gpu_poor>
 
 AutoML
 ============
